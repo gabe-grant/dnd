@@ -11,7 +11,7 @@ To get started with this project using a terminal or git bash, follow these step
 
 1. **Clone the Repository:**
 ```sh
-git clone https://github.com/gabe-grant/dnd
+git clone https://github.com/gabe-grant/dnd-markdown-template
 ```
 
 2. **Navigate to the Project Directory:**
