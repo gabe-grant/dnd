@@ -16,7 +16,7 @@ git clone https://github.com/gabe-grant/dnd-markdown-template
 
 2. **Navigate to the Project Directory:**
 ```sh
-cd dnd
+cd dnd-markdown-template
 ```
 
 3. **Open in VS Code:**
