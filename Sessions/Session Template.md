@@ -6,11 +6,12 @@
 5.
 
 ## Current Threads
-- Plot hooks
-	- Current step: blah
-	- Next step: blah
-	- blah
+- Plot hook
+	- Current step: 
+	- Next step: 
 - Another plot hook
+	- Current step: 
+	- Next step: 
 
 ## Things The Party Should Know
 1. One 
@@ -18,24 +19,22 @@
 3. Three pieces of key information the party should know about this session in order to advance in the campaign
 
 ## NPCs That Might Show Up
-- Name
-	- description
-	- important information
-	- "You should GO to this [enter place]" things to say to the players
-	- items, or pieces of information to share
-- Name 2
+- [[NPC Name]]
+	- things to say to the players
+	- items
+	- or pieces of information to share
+- [[NPC Name 1]]
 
-## Important Rules (DM Quick Reference)
+## Important Rules (Quick Reference)
 - Game or fight mechanics about that might be necessary
 - maybe it's page numbers to things in a module
 
-
 ## Planned Encounters
-
+Link to places or people in the world
 
 ## Recap
 A good place to copy/pasta the notes and rewrite a recap for the next session.
-Reminders/Corrections
+Reminders/Corrections.
 
 ## Notes
 A good place to take notes while in session

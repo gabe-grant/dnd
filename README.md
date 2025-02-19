@@ -1,30 +1,28 @@
 
 # Obsidian Markdown Guide
 
+## Overview
+
+WIP, but basically a template for organizing info for a Dungeon Master running a campaign.
 
 ## Project Setup
 
-To get started with this project, follow these steps:
+To get started with this project using a terminal or git bash, follow these steps:
 
 1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/gabe-grant/dnd
-   ```
+```sh
+git clone https://github.com/gabe-grant/dnd-markdown-template
+```
 
 2. **Navigate to the Project Directory:**
-   ```sh
-   cd [your-project-directory]
-   ```
+```sh
+cd dnd-markdown-template
+```
 
 3. **Open in VS Code:**
-   - Open Visual Studio Code.
-   - Use `File > Open Folder` to open the cloned project directory.
+	- If you have it set in your path, you can type the command `code .` and press enter **OR**
+	- Use `File > Open Folder` to open the cloned project directory.
 
-4. **Run the Project:**
-   - If your project requires running, ensure you have the necessary extensions installed. For example, for JavaScript:
-     - Open the integrated terminal in VS Code (`Ctrl + ` ` on Windows/Linux or `` Cmd + ` ` on macOS).
-     - Run `npm install` if using Node.js to install dependencies.
-     - Then run `npm start` or whatever command is appropriate for your project.
 
 ## Markdown in Obsidian
 
@@ -70,6 +68,7 @@ Headers are created using hash symbols (`#`). The number of hashes determines th
   ```
   You can specify the language after the opening backticks for syntax highlighting, e.g., ```javascript.
 
+
 ### Special Obsidian Features
 
 - **Internal Links:** Link to other notes within your vault using `[[Note Name]]`.
@@ -91,4 +90,3 @@ Headers are created using hash symbols (`#`). The number of hashes determines th
 - Remember, Obsidian treats each `.md` file as a note, which can be linked to create a knowledge graph.
 
 This guide should help you get started with using Markdown in Obsidian while also setting up your project in VS Code. Enjoy organizing your thoughts and knowledge with these tools!
-```
