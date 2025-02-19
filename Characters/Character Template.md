@@ -4,7 +4,7 @@
 ### Rank / Title / Quick Facts
 
 
-### Personal Quests
+### Personal Questz
 #### Quest 1
 - Where the are in the quest
 - What happens next
